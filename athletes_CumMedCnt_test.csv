@@ -1,0 +1,12 @@
+NOC,Year,Season,ath_cnt,Season_Summer,Season_Winter,Actual,Pred_OLD,Predicted,,
+USA,2018,Winter,244,,,23,37,34,244,555
+CHN,2018,Winter,80,,,9,6,6,80,390
+IND,2018,Winter,2,,,0,,0,2,112
+RUS,2018,Winter,168,,,17,23,16,168,284
+FRA,2018,Winter,106,,,15,,9,106,392
+GBR,2018,Winter,56,,,5,,5,56,360
+KOR,2018,Winter,71,,,8,,7,71,207
+CAN,2018,Winter,225,,,29,29,19,225,310
+SWE,2018,Winter,116,,,14,,11,116,150
+SUI,2018,Winter,166,,,15,,16,166,102
+AUS,2018,Winter,50,,,3,,3,50,420
